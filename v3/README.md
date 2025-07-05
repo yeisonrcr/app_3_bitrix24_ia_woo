@@ -69,7 +69,7 @@ Conversación + Teléfono →
           Automatización en Bitrix24 →
             Almacenamiento en BD local →
               Dashboard & Métricas
-
+```
 
 
 🧠 Lógica de Análisis IA (Claude)
